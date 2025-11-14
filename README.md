@@ -1,4 +1,4 @@
-# WA Base Bot
+# BRO WA YESU-X
 
 A modular WhatsApp bot built using Node.js and Baileys — designed as the foundation for my YouTube tutorial series.  
 With this base, you can easily add new commands every day and build your own full-featured WhatsApp bot from scratch.
