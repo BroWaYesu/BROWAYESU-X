@@ -1,4 +1,4 @@
-[![BROWAYESU](https://raw.githubusercontent.com/mr-X-force/LUCKY-MD-XFORCE/main/media/lucky.svg)](https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f)
+[![BROWAYESU](https://raw.https://github.com/BroWaYesu/BROWAYESU-X/𝗕𝗥𝗢 𝗪𝗔 𝗬𝗘𝗦𝗨-𝗫𝗠𝗗/main/media/lucky.svg)](https://chat.whatsapp.com/K8mKWGWLrYi4hSGZvb8PIK?mode=wwt)
 
 
 <p align="center">
